@@ -1,6 +1,6 @@
 cask "antler" do
-  version "0.4.0"
-  sha256 "3be575dc0edd4b5622ac37d024108efc04269531447f9569f35b2adf0ccb4da2"
+  version "0.5.0"
+  sha256 "63e5ed9a8d1bebbee3d139b9a6e5bfe1bdb61d53653123c45c12b051c61ed2c0"
 
   url "https://github.com/gianmadd/antler/releases/download/v#{version}/Antler-#{version}-arm64.zip"
   name "Antler"
